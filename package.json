@@ -16,7 +16,7 @@
     "@mdi/font": "7.4.47",
     "hono": "^4.7.10",
     "vue": "^3.5.30",
-    "vuetify": "^4.0.2"
+    "vuetify": "link:../vuetify/packages/vuetify"
   },
   "devDependencies": {
     "@tsconfig/node22": "^22.0.5",
