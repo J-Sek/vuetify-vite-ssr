@@ -17,7 +17,7 @@
 <script setup>
   import { ref } from 'vue'
 
-  const drawer = defineModel({ default: false })
+  const drawer = defineModel({ default: undefined })
 
   const items = ref([
     { title: 'Dashboard', prependIcon: 'mdi-view-dashboard', href: '#todo1' },

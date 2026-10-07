@@ -24,5 +24,5 @@
   import AppSidebar from '@/components/AppSidebar.vue'
   import HelloWorld from '@/components/HelloWorld.vue'
 
-  const drawer = ref(!true)
+  const drawer = ref()
 </script>
