@@ -20,8 +20,8 @@
   const drawer = defineModel({ default: false })
 
   const items = ref([
-    { title: 'Dashboard', prependIcon: 'mdi-view-dashboard', href: '#todo' },
-    { title: 'Calendar', prependIcon: 'mdi-calendar', href: '#todo' },
-    { title: 'Reports', prependIcon: 'mdi-file', href: '#todo' },
+    { title: 'Dashboard', prependIcon: 'mdi-view-dashboard', href: '#todo1' },
+    { title: 'Calendar', prependIcon: 'mdi-calendar', href: '#todo2' },
+    { title: 'Reports', prependIcon: 'mdi-file', href: '#todo3' },
   ])
 </script>
